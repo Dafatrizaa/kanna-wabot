@@ -14,7 +14,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dafatrizaa/kanna-wabot/)
 
 ### Instal Buildpack
 * heroku/nodejs
@@ -23,11 +23,11 @@
 
 ## FOR DEPLOY RAILWAY USER
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2FWabot-Tsb01)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDafatrizaa%2Fkanna-wabot)
 
 ## FOR DEPLOY REPLIT USER
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kannachann/kanna-wabot/)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Dafatrizaa/kanna-wabot/)
 ```cmd
 Open Console
 ------------
@@ -51,7 +51,7 @@ Click Run
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Kannachann/kanna-wabot/
+git clone https://github.com/Dafatrizaa/kanna-wabot.git
 cd kanna-wabot
 npm i
 npm update
@@ -68,7 +68,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
-git clone https://github.com/Kannachann/kanna-wabot/
+git clone https://github.com/Dafatrizaa/kanna-wabot.git
 npm install -g npm@6.14.14
 npm start
 ```
